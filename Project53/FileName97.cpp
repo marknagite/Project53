@@ -6,6 +6,6 @@ int main() {
 	std::cout << "enter width: ";
 	std::cin >> b;
 	int c = a * b;
-	std::cout << c << " is your square88";
+	std::cout << c << " is your square";
 	return 0;
 }
